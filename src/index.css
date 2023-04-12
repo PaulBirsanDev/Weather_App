@@ -1,0 +1,15 @@
+body {
+  border: none;
+  size: auto;
+  margin: 0;
+  font-family: "Roboto", Arial, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./assets/images/wallpaperflare.com_wallpaper\ \(1\).jpg");
+  background-repeat: no-repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
